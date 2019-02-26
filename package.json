@@ -1,0 +1,15 @@
+{
+    "name": "eos_boilerplate",
+    "version": "0.0.1",
+    "author": "nolan zhang",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "dotenv": "^6.1.0",
+        "eosjs": "^16.0.9",
+        "eosjs-ecc": "^4.0.4"
+    },
+    "devDependencies": {
+    }
+}
